@@ -1,0 +1,7 @@
+!!These commands should be added to /etc/share/vim/.vimrc for a new vim
+
+syntax on
+setlocal expandtab
+setlocal shiftwidth=4
+setlocal softtabstop=4
+
