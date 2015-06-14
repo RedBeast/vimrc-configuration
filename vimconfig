@@ -1,4 +1,4 @@
-!!These commands should be added to /etc/share/vim/.vimrc for a new vim
+!!These commands should be added to /etc/share/vim/vimrc for a new vim
 
 syntax on
 set number
